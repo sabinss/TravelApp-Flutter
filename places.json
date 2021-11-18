@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "name": "The Westin Lagunamar Ocean Resort Villas & Spa",
+      "location": "Quintana Roo, Mexico",
+      "rating": "4.5",
+      "description": "The Westin Lagunamar is ",
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/01/18/10/14/vaulted-cellar-247391__340.jpg",
+      "features": [
+        "wifi",
+        "parking",
+        "bar",
+        "gym",
+        "heater",
+        "food"
+      ]
+    },
+    {
+      "name": "Cancun",
+      "location": "californiz, USA",
+      "rating": "3",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/07/30/08/13/moscow-1556561__340.jpg",
+      "description": "The Westin Lagunamar is one of the only hotels in the heart of the Hotel Zone that's not all-inclusive -- and that is exactly why the guests who stay here",
+      "features": [
+        "wifi",
+        "parking",
+        "bar",
+        "gym"
+      ]
+    },
+    {
+      "name": "Riviera Maya",
+      "location": "Texas, USA",
+      "rating": "3",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/07/11/20/34/lost-places-1510592__340.jpg",
+      "description": "The Westin Lagunamar is one of the only hotels in the heart of the Hotel Zone that's not all-inclusive -- and that is exactly why the guests who stay here choose it. It appeals to families and couples who want the features of an all-inclusive resort but who prefer to skip the buffet lines and cook in their own kitchens.",
+      "features": [
+        "wifi",
+        "parking",
+        "bar",
+        "gym"
+      ]
+    },
+    {
+      "name": "Salvador",
+      "location": "Jailsco, Mexico",
+      "rating": "3",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/08/15/08/22/greece-1594689__340.jpg",
+      "description": "The Westin Lagunamar is one of the only hotels in the heart of the Hotel Zone that's not all-inclusive -- and that is exactly why the guests who stay here choose it. It appeals to families and couples who want the features of an all-inclusive resort but who prefer to skip the buffet lines and cook in their own kitchens.",
+      "features": [
+        "wifi",
+        "parking",
+        "bar",
+        "gym"
+      ]
+    },
+    {
+      "name": "Rio de Jeneiro",
+      "location": "Yucatan, Mexico",
+      "rating": "3",
+      "imageUrl": "https://cdn.pixabay.com/photo/2021/08/23/07/38/castle-6566978__340.jpg",
+      "description": "The Westin Lagunamar is one of the only hotels in the heart of the Hotel Zone that's not all-inclusive -- and that is exactly why the guests who stay here choose it. It appeals to families and couples who want the features of an all-inclusive resort but who prefer to skip the buffet lines and cook in their own kitchens.",
+      "features": [
+        "wifi",
+        "parking",
+        "bar",
+        "gym"
+      ]
+    }
+  ]
+}
